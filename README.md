@@ -10,15 +10,14 @@
 
 - Creating the ultimate USB combining Ventoy(With persistance for any linux distro and password protection on boot), PortableApps(Crossplatform portable app manager on windows/mac/linux), etc.
   ^^^Currently working on ways to encrypt the drive(potentially using VeraCrypt)^^^
-- Working on a Circular Array data structure project
+- Working on a personal finance tracker
 - Working on researching open source projects to contribute on
-- Working on my portfolio website (Currently getting artwork and logo commission for this as well)
+- Working on my portfolio website
 
 ## Previous Projects
 
 - Created a lore website for my friends
-- Mother's day card website
-- Spicetify mod update script
+- Created a RSS feed integration discord bot
 - BSU CS221 Projects
 - BSU CS208 Projects
 - BSU CS121 Projects
