@@ -1,7 +1,7 @@
 ## Haiiiii >w<
 
 - 🔭 I’m currently working on contributing to open source software
-- 🌱 I’m currently learning data structures :/
+- 🌱 I’m currently learning theory of computation
 - 💬 Ask me about Overwatch :3
 - ⚡ Fun fact: I love eSports and video games
 - ❤️ I also LOVEEEE linux operating systems
