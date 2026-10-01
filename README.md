@@ -15,6 +15,7 @@
 
 ## Previous Projects
 
+- Buddy Memory Allocator in C
 - Created a lore website for my friends
 - Created a RSS feed integration discord bot
 - BSU ECE330 Projects
